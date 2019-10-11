@@ -22,3 +22,5 @@ It is understood that you know how to connect to your AWS console.
 [Connect to an EC2 instance in SSH mode with PuTTY](https://github.com/comevussor/Amazon-Web-Service-AWS-VPC-and-EC2-setup/wiki/Connect-to-an-EC2-instance-in-SSH-mode-with-PuTTY)
 
 [Connect to a Linux EC2 instance in SSH mode from another instance with command line](https://github.com/comevussor/Amazon-Web-Service-AWS-VPC-and-EC2-setup/wiki/Connect-to-a-Linux-EC2-instance-in-SSH-mode-from-another-instance-with-command-line)
+
+[Ping the outside world from an EC2 instance behind a NAT](https://github.com/comevussor/Amazon-Web-Service-AWS-VPC-and-EC2-setup/wiki/Ping-the-outside-world-from-an-EC2-instance-behind-a-NAT)
