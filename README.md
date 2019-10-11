@@ -17,4 +17,8 @@ It is understood that you know how to connect to your AWS console.
 
 [Convert a .pem private key file to a .ppk one with PuTTYgen](https://github.com/comevussor/Amazon-Web-Service-AWS-VPC-and-EC2-setup/wiki/Convert-a-.pem-private-key-file-to-a-.ppk-one-with-PuTTYgen)
 
+[Upload files to a Linux EC2 instance and protect restrict access to yourself using FileZilla](https://github.com/comevussor/Amazon-Web-Service-AWS-VPC-and-EC2-setup/wiki/Upload-files-to-a-Linux-EC2-instance-and-protect-restrict-access-to-yourself-using-FileZilla)
+
 [Connect to an EC2 instance in SSH mode with PuTTY](https://github.com/comevussor/Amazon-Web-Service-AWS-VPC-and-EC2-setup/wiki/Connect-to-an-EC2-instance-in-SSH-mode-with-PuTTY)
+
+[Connect to a Linux EC2 instance in SSH mode from another instance with command line](https://github.com/comevussor/Amazon-Web-Service-AWS-VPC-and-EC2-setup/wiki/Connect-to-a-Linux-EC2-instance-in-SSH-mode-from-another-instance-with-command-line)
