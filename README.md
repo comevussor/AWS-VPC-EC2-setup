@@ -5,7 +5,7 @@ It is understood that you know how to connect to your AWS console.
 
 [Create a VPC with public and private subnets](https://github.com/comevussor/AWS-VPC-EC2-setup/wiki/Create-a-VPC-with-public-and-private-subnets)
 
-[Get a key pair for a secure ssh or sftp connection to your EC2 instance](https://github.com/comevussor/Amazon-Web-Service-AWS-VPC-and-EC2-setup/wiki/Get-a-key-pair-for-a-secure-ssh-or-sftp-connection-to-your-EC2-instance)
+[Get a key pair for a secure ssh or sftp connection to your EC2 instance](https://github.com/comevussor/Amazon-Web-Service-AWS-VPC-and-EC2-setup/wiki/Get-a-key-pair-for-a-secure-ssh-or-sftp-connection-to-your-EC2-instance) ; Do it before creating your EC2 instance !
 
 [Create an EC2 instance in a public or private subnet](https://github.com/comevussor/AWS-VPC-EC2-setup/wiki/Create-an-EC2-instance-in-a-public-or-private-subnet)
 
