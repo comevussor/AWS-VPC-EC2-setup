@@ -1,0 +1,8 @@
+# this piece of code is to be pasted in the User Data window at step 6 of EC2 instance launch 
+# see details here https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html
+# this is derived from this tuto https://medium.com/@s.on/running-ubuntu-desktop-gui-aws-ec2-instance-on-windows-3d4d070da434
+
+sudo apt-get update -y
+sudo apt-get install ubuntu-desktop -y
+sudo apt-get install tightvncserver -y
+sudo apt-get install gnome-panel gnome-settings-daemon metacity nautilus gnome-terminal -y
