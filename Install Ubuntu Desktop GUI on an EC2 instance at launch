@@ -2,6 +2,7 @@
 # see details here https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html
 # this is derived from this tuto https://medium.com/@s.on/running-ubuntu-desktop-gui-aws-ec2-instance-on-windows-3d4d070da434
 
+#!/bin/bash
 sudo apt-get update -y
 sudo apt-get install ubuntu-desktop -y
 sudo apt-get install tightvncserver -y
