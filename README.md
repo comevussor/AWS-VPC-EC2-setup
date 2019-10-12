@@ -24,3 +24,5 @@ It is understood that you know how to connect to your AWS console.
 [Connect to a Linux EC2 instance in SSH mode from another instance with command line](https://github.com/comevussor/Amazon-Web-Service-AWS-VPC-and-EC2-setup/wiki/Connect-to-a-Linux-EC2-instance-in-SSH-mode-from-another-instance-with-command-line)
 
 [Ping the outside world from an EC2 instance behind a NAT](https://github.com/comevussor/Amazon-Web-Service-AWS-VPC-and-EC2-setup/wiki/Ping-the-outside-world-from-an-EC2-instance-behind-a-NAT)
+
+[Install Ubuntu Desktop GUI on an EC2 instance at launch](https://github.com/comevussor/Amazon-Web-Service-AWS-VPC-and-EC2-setup/blob/master/Install%20Ubuntu%20Desktop%20GUI%20on%20an%20EC2%20instance%20at%20launch)
