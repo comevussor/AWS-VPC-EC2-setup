@@ -1,7 +1,10 @@
 # Amazon Web Services AWS : VPC and EC2 setup
+
 Some useful procedures for using AWS to make some computation capacity easily available.
 
 It is understood that you know how to connect to your AWS console.
+
+Links are directed to the corresponding Wiki article.
 
 [Create a VPC with public and private subnets](https://github.com/comevussor/AWS-VPC-EC2-setup/wiki/Create-a-VPC-with-public-and-private-subnets)
 
